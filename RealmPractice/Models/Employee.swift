@@ -9,5 +9,5 @@
 import UIKit
 
 class Employee: NSObject {
-
+    @objc dynamic var name: String = ""
 }
